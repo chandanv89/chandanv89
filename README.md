@@ -1,7 +1,9 @@
+<!--
 - 👋 Hi, I’m `@chandanv89`
 - 👀 I’m an application developer and mostly build stuffs using Java and Angular.
 - 🌱 I’m currently learning React Native and Flutter.
 - 📫 To know more, visit [my website](https://chandanv.me) ;)
+-->
 
 ![Metrics](/github-metrics.svg)
 
